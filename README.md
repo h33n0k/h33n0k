@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 I'm passionate about system administration and automation.  
-Currently looking for a **SysOps**/**DevOps** internship to grow my skills in infrastructure management, deployment, and monitoring.
+Currently applying for a SysOps/DevOps internship at Capgemini !
 
 Feel free to check out my projects and get in touch!
 
