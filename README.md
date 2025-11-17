@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 I'm passionate about system administration and automation.  
-Currently applying for a SysOps/DevOps internship at Capgemini !
+Currently applying for a SysOps/DevOps internship at [Capgemini](https://capgemini.com) !
 
 Feel free to check out my projects and get in touch!
 
