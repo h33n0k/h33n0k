@@ -5,7 +5,7 @@ Currently applying for a SysOps/DevOps internship at [Capgemini](https://capgemi
 
 Feel free to check out my projects and get in touch!
 
-📨 Get in touch [valentin@gorr.in](mailto:valentin@gorr.in)  
+📨 Get in touch [contact@gorr.in](mailto:contact@gorr.in)  
 🕵🏻‍♀️ Send me a message [@h33n0k:matrix.gorr.in](https://matrix.to/#/@h33n0k:matrix.gorr.in)  
 💽 Check out my website (in progress): [valentin.gorr.in](https://valentin.gorr.in)  
 👉 Also on [GitLab](https://gitlab.gorr.in/h33n0k) (self hosted)  
